@@ -1,0 +1,71 @@
+[
+  {
+    "name": "Britney",
+    "picture": "http://cdn.morguefile.com/imageData/public/files/g/GenieAga/05/l/136958506309yyl.jpg",
+    "breed": "Mix",
+    "hobbies": "I love long walks, chewing tennis balls, and chasing birds.",
+    "size": "medium"
+  },
+  {
+    "name": "Eddy",
+    "picture": "http://cdn.morguefile.com/imageData/public/files/l/latemagnolia/05/l/1368587534k4tpp.jpg",
+    "breed": "Beagle",
+    "hobbies": "I enjoy going to dog park and sniffing other dogs. I also like smelling babies.",
+    "size": "small"
+  },
+  {
+    "name": "Max",
+    "picture": "http://cdn.morguefile.com/imageData/public/files/s/Sgarton/07/l/13728972192doyu.jpg",
+    "breed": "Terrier Mix",
+    "hobbies": "I really like to lick human faces, eat carrots, chew fancy shoes.",
+    "size": "small"
+  },
+  {
+    "name": "Molly",
+    "picture": "http://img1.findthebest.com/sites/default/files/465/media/images/Yorkshire_Terrier_909893.jpg",
+    "breed": "Yorkshire Terrier",
+    "hobbies": "I do anything for pork treats! Chicken treats are a close second.",
+    "size": "small"
+  },
+  {
+    "name": "Rufus",
+    "picture": "http://cdn.morguefile.com/imageData/public/files/c/c8xw7r/07/l/14046382871jmwa.jpg",
+    "breed": "Spitz Mix",
+    "hobbies": "My favorite things are eggs and balls of yarn.",
+    "size": "medium"
+  },
+  {
+    "name": "Tanner",
+    "picture": "http://cdn.morguefile.com/imageData/public/files/p/pippalou/02/l/139286559047xlb.jpg",
+    "breed": "Golden Retriever",
+    "hobbies": "I am athletic, so I love swimming, hiking, and chasing balls.",
+    "size": "medium/large"
+  },
+  {
+    "name": "Bella",
+    "picture": "https://raw.githubusercontent.com/lanajen/30sites/gh-pages/meetbella/bellastanding.JPG",
+    "breed": "Shiba Inu",
+    "hobbies": "I am really good at catching frisbees.",
+    "size": "medium/small"
+  },
+  {
+    "name": "Darwin",
+    "picture": "http://www.dogbreedslist.info/uploads/allimg/dog-pictures/St-Bernard-2.jpg",
+    "breed": "Saint Bernard",
+    "hobbies": "My favorite pastimes include rolling around on grass and watching TV.",
+    "size": "large"
+  },
+  {
+    "name": "Misty",
+    "picture": "http://cdn.morguefile.com/imageData/public/files/k/Karpati%20Gabor/01/l/1390763714ae14n.jpg",
+    "breed": "White Husky",
+    "hobbies": "On my free time, I like to go fishing and hunting with my human companion.",
+    "size": "medium"
+  },
+  {
+    "ilike": []
+  },
+  {
+    "likesme": []
+  }
+]

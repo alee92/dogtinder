@@ -1,0 +1,12 @@
+.btn-right-wrapper{
+	float:right;
+}
+#chat{
+	width:  60px;
+	height: auto;
+	margin-left: auto;
+    margin-right: auto;
+}
+.title{
+	text-align: center;
+}

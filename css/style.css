@@ -43,3 +43,8 @@
 	padding: 10px;
 	text-align: left;
 }
+.controls-container{
+	display: block;
+	width: 100%;
+	text-align: center;
+}

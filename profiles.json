@@ -58,8 +58,14 @@
   {
     "name": "Misty",
     "picture": "http://cdn.morguefile.com/imageData/public/files/k/Karpati%20Gabor/01/l/1390763714ae14n.jpg",
-    "breed": "Saint Bernard",
+    "breed": "White Husky",
     "hobbies": "On my free time, I like to go fishing and hunting with my human companion.",
     "size": "medium"
+  },
+  {
+    "ilike": []
+  },
+  {
+    "likesme": []
   }
 ]
